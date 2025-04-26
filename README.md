@@ -81,4 +81,4 @@ El código funciona de la siguiente forma:
 ## 📺 Vídeo explicativo
 
 Puedes ver una explicación paso a paso en el siguiente vídeo:  
-🔗 [Enlace al vídeo explicativo](#)
+🔗 [[Enlace al vídeo explicativo](https://youtu.be/ab8X9I8gh7c)](#)
